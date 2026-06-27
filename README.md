@@ -1,4 +1,4 @@
-# By: Hanim MOUSSA YARI
+# By: Hanim MOUSSA YARI & Linerol Tchecounnou
 
 # TimeTravel Agency — Webapp interactive
 
@@ -88,7 +88,7 @@ En production : ajoutez-la dans Vercel → *Settings → Environment Variables*.
 
 ## 👥 Équipe
 
-Projet réalisé par [NOM 1], [NOM 2], [NOM 3], [NOM 4].
+Projet réalisé par Hanim MOUSSA YARI, Linerol TCHECOUNNOU.
 
 ## 📄 Licence
 
